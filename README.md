@@ -1,2 +1,2 @@
 # best-repo-ever
-Added line from new-branch-1
+Added line from new-branch-2
